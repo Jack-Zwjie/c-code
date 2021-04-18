@@ -1,0 +1,3 @@
+﻿  test.c
+C:\Users\Administrator\source\repos\test_4_18\test.c(178,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\Administrator\source\repos\test_4_18\test.c(176,1): error C2075: “arr3”: 初始化需要带括号的初始值设定项列表
