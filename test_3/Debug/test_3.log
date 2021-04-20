@@ -1,0 +1,3 @@
+﻿  test-32.c
+C:\Users\Administrator\source\repos\test_3\test-32.c(151): warning C4716: “add”: 必须返回一个值
+  test_3.vcxproj -> C:\Users\Administrator\source\repos\test_3\Debug\test_3.exe
