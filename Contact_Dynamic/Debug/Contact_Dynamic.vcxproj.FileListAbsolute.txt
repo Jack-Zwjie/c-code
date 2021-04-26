@@ -1,0 +1,2 @@
+D:\student  C\C语言\Contact_Dynamic\Debug\Contact_Dynamic.exe
+D:\student  C\C语言\Contact_Dynamic\Debug\Contact_Dynamic.pdb
