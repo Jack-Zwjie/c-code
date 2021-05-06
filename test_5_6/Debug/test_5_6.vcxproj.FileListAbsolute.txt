@@ -1,0 +1,2 @@
+D:\student  C\C语言\test_5_6\Debug\test_5_6.exe
+D:\student  C\C语言\test_5_6\Debug\test_5_6.pdb
