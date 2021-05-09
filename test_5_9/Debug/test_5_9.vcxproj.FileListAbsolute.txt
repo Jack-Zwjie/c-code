@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\test_5_9\Debug\test_5_9.exe
+C:\Users\Administrator\source\repos\test_5_9\Debug\test_5_9.pdb
+E:\code\c-code\test_5_9\Debug\test_5_9.exe
+E:\code\c-code\test_5_9\Debug\test_5_9.pdb
